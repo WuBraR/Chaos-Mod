@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				32,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				110,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				19,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/galaxizsad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "galaxiz",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		54,
+		253
+	],
+	"camera_position": [
+		-20,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

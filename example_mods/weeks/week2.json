@@ -1,0 +1,39 @@
+{
+	"storyName": "spooky love",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Withered",
+			"galaxiz",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Haunted",
+			"galaxiz",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"galaxiz",
+		"bf",
+		"gf"
+	],
+	"weekName": "galaxiz week"
+}

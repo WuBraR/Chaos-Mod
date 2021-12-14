@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Chaos",
+			"galaxiz",
+			[
+				255,
+				100,
+				40
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekCharacters": [
+		"wubrar",
+		"bf",
+		"gf"
+	],
+	"storyName": "glitch",
+	"weekName": "WuBraR week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
